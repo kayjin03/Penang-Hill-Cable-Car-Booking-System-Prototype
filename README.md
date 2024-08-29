@@ -1,2 +1,1 @@
-# Penang-Hill-Cable-Car-Booking-System-Prototype
-A comprehensive prototype for a ticket booking system with multiple pages, including login, booking details, and payment confirmation.
+Install Axure RP 9. Open the Axure RP Project file using AxureRP 9 and click on the Preview Button on the top right hand corner. Enjoy :)
